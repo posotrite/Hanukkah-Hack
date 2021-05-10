@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hkh",
+  "name": "Hanukkah Hack",
+  "description": "jewish hacks",
+  "version": "${1.0.0}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Posotrite"],
+  "credits": "Hanukkah Club",
+  "logoFile": "logo.PNG",
+  "screenshots": [],
+  "dependencies": []
+}
+]
