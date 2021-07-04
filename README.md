@@ -35,6 +35,7 @@ Minecraft Forge - https://files.minecraftforge.net/net/minecraftforge/forge/
 Click Gui - Hero Code
 
 Java Discord RPC - https://github.com/MinnDevelopment/java-discord-rpc
+
 Discord RPC Release - https://github.com/MinnDevelopment/discord-rpc-release
 
 Let me know if any other sources need to receive credit!
